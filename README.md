@@ -1,4 +1,4 @@
-# Vremenska-prognoza-predikcija
+# WEATHER FORECAST PREDICTION ON A UI BASE FOR THE LOCAL AREA
 **Using web scraping, 3 weather stations in the local area were selected: Čakovec, Varaždin and Koprivnica.
 Their data is monitored for a period of 30 days, the month of April 2023, and saved in an excel file.**
 
