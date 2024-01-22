@@ -3,7 +3,10 @@ Using web scraping, 3 weather stations in the local area were selected: Čakovec
 Their data is monitored for a period of 30 days, the month of April 2023, and saved in an excel file.
 Based on the collected data using UI, an Mlp (Multilayer Percepton) neural network was created, which will enable a forecast for the same time period of the next calendar year for the specified monitoring period, the month of April 2024.
 Worked in Jupyter Notebook which is part of Anaconda environment.
+
 ![html2](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/fba42ce1-5f48-410c-98be-5d8162100627)
+![Snimka zaslona 2024-01-22 144141](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/23080582-6225-43a7-b4cd-7d17771bb109)
+
 
 
 
