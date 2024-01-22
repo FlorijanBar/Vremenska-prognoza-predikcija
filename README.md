@@ -13,7 +13,6 @@ The application has one main interface that displays all the main features and 5
 Interfaces created using Tkinter and PyQt.
 Included excel files, Zagreb-test is used and required to test for button: Treniranje-testiranje-pojedinačno
 
-![Snimka zaslona 2024-01-22 144519](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/f9739004-d5fa-4ce2-a168-d725535609c6)
 ![Snimka zaslona 2024-01-22 144008](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/2145939e-0988-4108-a9a1-e7fbc99484d3)
 ![Snimka zaslona 2024-01-22 144031](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/44a23cda-8a65-46b9-8037-c28cc6460e34)
 ![Snimka zaslona 2024-01-22 144113](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/58eed512-c75e-4ed2-886d-da21966b049d)
@@ -23,5 +22,6 @@ Included excel files, Zagreb-test is used and required to test for button: Treni
 ![Snimka zaslona 2024-01-22 144348](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/f9381aab-0b3a-46e6-8f27-d2e5143760e5)
 ![Snimka zaslona 2024-01-22 144408](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/b87b9f85-dfcd-46e4-a4d8-b244ef238bd1)
 ![Snimka zaslona 2024-01-22 144424](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/decea6d3-d5d4-4153-8a54-25efb24bd28a)
+![Snimka zaslona 2024-01-22 144519](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/f9739004-d5fa-4ce2-a168-d725535609c6)
 ![Snimka zaslona 2024-01-22 144502](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/a1187023-b14b-476d-9a2e-7e134acb08ac)
 
