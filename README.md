@@ -7,12 +7,13 @@ Worked in Jupyter Notebook which is part of Anaconda environment.**
 **The application has one main interface that displays all the main features and 5 interfaces that are part of the main features, and buttons for each feature. By clicking on a certain feature, a new interface opens with that feature that we have selected. In order to always return to the main interface, it is necessary to minimize the current interface or close it.
 Interfaces created using Tkinter and PyQt.**
 
-**Graphs were created for each parameter, there are 7 parameters in total:(TrenutačnaTemperatura,Oborine,Vlaga,Vjetar,Trenutnovrijeme,Najvećatemperatura,Najmanjatemperatura)
-Included excel files.
-Zagreb-test is used and required to test for button: Treniranje-testiranje-pojedinačno**
+**Graphs were created for each parameter, there are 7 parameters in total:(TrenutačnaTemperatura,Oborine,Vlaga,Vjetar,Trenutnovrijeme,Najvećatemperatura,Najmanjatemperatura)**
+
+**Included excel files, Zagreb-test is used and required to test for button: Treniranje-testiranje-pojedinačno**
 
 
 ![html2](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/fba42ce1-5f48-410c-98be-5d8162100627)
+
 ![Snimka zaslona 2024-01-22 144141](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/23080582-6225-43a7-b4cd-7d17771bb109)
 
 ![Snimka zaslona 2024-01-22 144008](https://github.com/FlorijanBar/Vremenska-prognoza-predikcija/assets/101203001/2145939e-0988-4108-a9a1-e7fbc99484d3)
