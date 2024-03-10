@@ -1,6 +1,8 @@
 # WEATHER FORECAST PREDICTION ON A UI BASE FOR THE LOCAL AREA
 **Using web scraping, 3 weather stations in the local area were selected: Čakovec, Varaždin and Koprivnica.
 Their data is monitored for a period of 30 days, the month of April 2023, and saved in an excel file.**
+
+
 **The main functionalities include:
  • Selecting an Excel file for training and testing purposes.
  • Displaying predicted weather conditions and statistics for locations (temperature,
