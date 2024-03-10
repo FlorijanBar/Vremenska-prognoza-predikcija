@@ -1,6 +1,17 @@
 # WEATHER FORECAST PREDICTION ON A UI BASE FOR THE LOCAL AREA
 **Using web scraping, 3 weather stations in the local area were selected: Čakovec, Varaždin and Koprivnica.
 Their data is monitored for a period of 30 days, the month of April 2023, and saved in an excel file.**
+**The main functionalities include:
+ • Selecting an Excel file for training and testing purposes.
+ • Displaying predicted weather conditions and statistics for locations (temperature,
+ humidity, wind speed, etc.), comparing them with past current conditions.
+ • Forecasting predicted weather conditions for the next few days.
+ • Visual representation of weather forecast using various graphs.
+ Tools and technologies used:
+ • Web scraping
+ • Multi-Layer Perceptron neural network for weather condition prediction.
+ • Anaconda (Jupyter notebook).
+ • Python and libraries (TensorFlow, Keras, etc.), Tkinter and PyQt5 interface.**
 
 **Based on the collected data using UI, an Mlp (Multilayer Percepton) neural network was created, which will enable a forecast for the same time period of the next calendar year for the specified monitoring period, the month of April 2024.
 Worked in Jupyter Notebook which is part of Anaconda environment.**
